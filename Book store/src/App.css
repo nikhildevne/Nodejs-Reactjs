@@ -1,0 +1,24 @@
+table{
+    border: 1px solid grey;
+    margin-top: 10px;
+}
+
+th,td{
+    padding:20px;
+    border: 1px solid grey
+}
+
+.redColor{
+    color: red;
+}
+
+.greenColor{
+    color: green;
+}
+
+.inputStyle{
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 25%;
+    
+}
